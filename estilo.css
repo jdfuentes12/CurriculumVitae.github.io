@@ -154,7 +154,8 @@ body{
 }
 
 .about{
-    margin-bottom: 50px;
+    margin-bottom: 20px;
+    margin: 25px 0;
 }
 
 .about:last-child{
@@ -165,8 +166,8 @@ body{
     color: #003147;
     text-transform: uppercase;
     letter-spacing: 1px;
-    margin-bottom: 10px;
-
+    margin-bottom: 5px;
+    margin: 0px 0;
 }
 
 p{
@@ -176,7 +177,7 @@ p{
 .about .box{
     display: flex;
     flex-direction: row;
-    margin: 20px 0;
+    margin: 0px 0;
 }
 
 .about .box .years{
@@ -231,7 +232,7 @@ p{
     top: 0;
     left: 0;
     height: 100%;
-    background: #03a9f4;
+    background: #2a7da2;
 }
 
 .interest ul{
@@ -247,7 +248,7 @@ p{
 }
 
 .interest ul li .fa{
-    color: #03a9f4;
+    color: #2a7da2;
     font-size: 18px;
     width: 20px;
 }
